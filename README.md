@@ -22,7 +22,7 @@ Data files are not committed to this repo due to size. Download instructions
 are in `data/README.md`.
 
 ## Methods
-- **Storage:** PostgreSQL via Supabase
+- **Storage:** PostgreSQL via Pg4admin
 - **Processing:** Python (pandas) in Jupyter Notebooks
 - **Classification:** NOVA framework applied via ingredient-list pattern matching
 
@@ -46,4 +46,4 @@ are in `data/README.md`.
 - [Other citations from your list]
 
 ## Author
-[Your Name] — independent research project pursued alongside data analyst job search.
+Hizkia Permata
