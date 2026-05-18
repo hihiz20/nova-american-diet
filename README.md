@@ -55,16 +55,15 @@ In progress
 
 
 ## Repository Structure
-- `sql/` — schema definitions and queries
-- `data/` — source gathered from USDA FoodData Central 
-- `notebooks/` — Jupyter notebooks for ingestion, EDA, and classification
-- `visuals/` — visualization of the result findings
-- `docs/` — research questions and citation list
+- `SQL/` — schema definitions and queries
+- `Data/` — source gathered from USDA FoodData Central 
+- `Notebooks/` — Jupyter notebooks for ingestion, EDA, and classification
+- `Visuals/` — visualization of the result findings
 
 
 ## Progress
 - [x] Data acquisition and ingestion into PostgreSQL
-- [x] Initial exploratory analysis
+- [ ] Initial exploratory analysis
 - [ ] NOVA classification logic for ingredient parsing
 - [ ] Regional / state-level aggregation
 - [ ] Correlation analysis with CDC obesity prevalence data
