@@ -1,6 +1,6 @@
 # Investigating the American Diet Through NOVA Classification
 
-**Status:** In progress (active development as of April 2026)
+**Status:** In progress
 
 ## Project Summary
 This project is aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification:
@@ -47,11 +47,11 @@ are in `data/README.md`.
 
 
 ## Results and Discussions
-(show graphs to see and also back the findings by comparing the result of research findings from research questions and the result and make discussions about it.)
+
 
 
 ## Conlusion
-According to the findings, sugar is ...
+
 
 
 ## Repository Structure (put links for easy access!)
