@@ -3,7 +3,7 @@
 **Status:** In progress
 
 ## Project Summary
-This project is aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification:
+This project aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification:
 
 - NOVA 1 - Unprocessed Foods
 - NOVA 2 - Processed Culinary Ingredients
@@ -14,9 +14,9 @@ Additionally, ingredients will be investigated, specifically the most present in
 
 
 ## Why this project: the American Diet Through NOVA Classification
-Today, millions of Americans are facing health issues, obesity, overweight, diabetes, and several other health issues that could rise over time. This project aims to provide valuable insights about the foods we consume daily and providing awareness to individuals that want to eat healtier, prevent having further health issues, make healthy choices, lose weight, limiting specific food(s), and list of ingredients to avoid that are present in NOVA 3 (Processed Foods) and NOVA 4 (Ultra Processed Foods) as these classifications have more chemical ingredients than NOVA 1 (Unprocessed Foods) and NOVA 2 (Processed Culinary Ingredients) (referneces: atleast 4).
+Today, millions of Americans are facing health issues, obesity, overweight, diabetes, and several other health issues that could rise over time. This project aims to provide valuable insights about the foods we consume daily and provides awareness to individuals that want to eat healthier, prevent having further health issues, make healthy choices, lose weight, limiting specific food(s), and list of ingredients to avoid that are present in NOVA 3 (Processed Foods) and NOVA 4 (Ultra Processed Foods) as these classifications have more chemical ingredients than NOVA 1 (Unprocessed Foods) and NOVA 2 (Processed Culinary Ingredients).
 
-Food is an essential human survival, providing nourishment our bodies need to function. Yet in this modern age, the foods we consume are packed with chemicals that we often never read the ingredients labeled. Long ago, humans would eat food that are natural, handmade, and organic. Now that technology and science have evolved, foods we eat today are shaped by Agricultural Biotechnology, Food Engineer, and Sensory Science (to maximize the addictive appeal and maximize palatability). This leads to the rise processed and ultra process foods. According to several findings and research, the United States is consistently producing processed and ultra processed food production in the world, as well as one of the highest consumption rates (Amaraggi et al., 2024, preprint; Marino et al., 2021; Juul et al., 2022). 
+Food is essential for human survival, providing nourishment our bodies need to function. Yet in this modern age, the foods we consume are packed with chemicals that we often never read the ingredients labeled. Long ago, humans would eat food that are natural, handmade, and organic. Now that technology and science have evolved, foods we eat today are shaped by Agricultural Biotechnology, Food Engineer, and Sensory Science (to maximize the addictive appeal and maximize palatability). This leads to the rise processed and ultra process foods. According to several findings and research, the United States is consistently producing processed and ultra processed food production in the world, as well as one of the highest consumption rates (Amaraggi et al., 2024, preprint; Marino et al., 2021; Juul et al., 2022). 
 
 
 ## Research Questions
@@ -24,7 +24,7 @@ Food is an essential human survival, providing nourishment our bodies need to fu
 2. Which NOVA classification has the most unique food product?
 3. Which food categories dominate the US market?
 4. How many total unique product does each NOVA classification have?
-5. Most occuring ingredients does every NOVA classification have?
+5. What are the most occurring ingredients in each NOVA classification?
 6. Is sugar the most consumed ingredients and which types of sugars found and consumed?
 7. Are there ingredients, specifically, in NOVA 3 and 4 that poses health risks?
 
@@ -40,21 +40,21 @@ are in `data/README.md`.
 
 
 ## Methods
-- **Storage:** PostgreSQL via Pg4admin
+- **Storage:** PostgreSQL via pgAdmin
 - **Processing:** Python (pandas) in Jupyter Notebooks
 - **Classification:** NOVA framework applied via ingredient-list pattern matching
 - **Visualization:** Tableau
 
 
 ## Results and Discussions
+In progress
 
 
+## Conclusion
+In progress
 
-## Conlusion
 
-
-
-## Repository Structure (put links for easy access!)
+## Repository Structure
 - `sql/` — schema definitions and queries
 - `data/` — source gathered from USDA FoodData Central 
 - `notebooks/` — Jupyter notebooks for ingestion, EDA, and classification
@@ -72,9 +72,7 @@ are in `data/README.md`.
 
 
 ## Key References
-- 
-- 
-- 
+In Progress
 
 
 ## References 
@@ -82,11 +80,11 @@ are in `data/README.md`.
 <summary><b>Click to expand the full list of references</b></summary>
 
 1. Monteiro, C. A., et al. (2019). Ultra-processed foods, diet quality, and health using the NOVA classification system.
-2. [Add your next long reference here]
-3. [Add your next long reference here]
+
+In progress
 
 </details>
 
 
 ## Author
-Hizkia Filio Handoyo Permata
+Hizkia Permata
