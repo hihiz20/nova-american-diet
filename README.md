@@ -79,9 +79,11 @@ In Progress
 <details>
 <summary><b>Click to expand the full list of references</b></summary>
 
-1. Monteiro, C. A., et al. (2019). Ultra-processed foods, diet quality, and health using the NOVA classification system.
-
-In progress
+1. Monteiro et al. (2019)
+2. Juul et al. (2022)
+3. Marino et al. (2021)
+4. Amaraggi et al. (2024)
+5. In progress
 
 </details>
 
