@@ -21,16 +21,16 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 ## Research Questions
 **NOVA Classification**
-1. What are the most popular American food category and what NOVA classification does it stand in?
-2. Which NOVA classification has the most unique food product?
-3. Which food categories dominate the US market?
-4. How many total unique product does each NOVA classification have?
+- What are the most popular American food category and what NOVA classification does it stand in?
+- Which NOVA classification has the most unique food product?
+- Which food categories dominate the US market?
+- How many total unique product does each NOVA classification have?
 
 **Ingredients and Consumer Awareness**
-5. What are the most occurring ingredients in each NOVA classification?
-6. Is sugar the most consumed ingredients and which types of sugars found and consumed?
-7. Are there ingredients, specifically, in NOVA 3 and 4 that poses health risks?
-8. How many products list sugar (in any form — sucrose, corn syrup, dextrose, fructose, etc.) as one of the top 3 ingredients?
+- What are the most occurring ingredients in each NOVA classification?
+- Is sugar the most consumed ingredients and which types of sugars found and consumed?
+- Are there ingredients, specifically, in NOVA 3 and 4 that poses health risks?
+- How many products list sugar (in any form — sucrose, corn syrup, dextrose, fructose, etc.) as one of the top 3 ingredients?
 
 
 ## Data
