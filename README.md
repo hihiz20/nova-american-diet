@@ -82,11 +82,27 @@ In Progress
 <details>
 <summary><b>Click to expand the full list of references</b></summary>
 
-1. Monteiro et al. (2019)
-2. Juul et al. (2022)
-3. Marino et al. (2021)
-4. Amaraggi et al. (2024)
-5. In progress
+1. Amaraggi, B., Wood, W., Guinovart Martín, L., Giménez Sánchez, J.,
+Fleta Sánchez, Y., & de la Garza Puentes, A. (2024). Ultra-processed
+food staples dominate mainstream U.S. supermarkets. medRxiv [Preprint].
+https://doi.org/10.1101/2024.02.16.24302894
+
+2. Juul, F. et al. (2022). Ultra-processed food consumption among
+US adults from 2001 to 2018. American Journal of Clinical
+Nutrition, 115(1), 211–221.
+https://doi.org/10.1093/ajcn/nqab305
+
+3. Marino, M. et al. (2021). A Systematic Review of Worldwide
+Consumption of Ultra-Processed Foods. PMC.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8398521/
+
+4. Monteiro, C. A., Cannon, G., Levy, R. B., Moubarac, J. C., Jaime, P.,
+Martins, A. P., et al. (2016). NOVA. The star shines bright.
+World Nutrition, 7(1-3), 28-38.
+https://www.worldnutritionjournal.org/index.php/wn/article/view/5
+
+
+
 
 </details>
 
