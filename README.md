@@ -101,6 +101,51 @@ Martins, A. P., et al. (2016). NOVA. The star shines bright.
 World Nutrition, 7(1-3), 28-38.
 https://www.worldnutritionjournal.org/index.php/wn/article/view/5
 
+5. Monteiro, C. A., Cannon, G., Levy, R. B., Moubarac, J. C., Jaime, P.,
+Martins, A. P., et al. (2016). NOVA. The star shines bright.
+World Nutrition, 7(1-3), 28-38.
+https://www.worldnutritionjournal.org/index.php/wn/article/view/5
+
+6. Monteiro, C. A., Cannon, G., Lawrence, M., Costa Louzada, M. L., &
+Pereira Machado, P. (2019). Ultra-processed foods, diet quality, and
+health using the NOVA classification system. Rome: Food and Agriculture
+Organization of the United Nations (FAO).
+https://openknowledge.fao.org/server/api/core/bitstreams/5277b379-0acb-4d97-a6a3-602774104629/content
+
+7. Vitale, M., Costabile, G., Testa, R., D'Abbronzo, G., Nettore, I.C.,
+Macchia, P.E., & Giacco, R. (2024). Ultra-Processed Foods and Human
+Health: A Systematic Review and Meta-Analysis of Prospective Cohort
+Studies. Advances in Nutrition, 15(1), 100121.
+https://doi.org/10.1016/j.advnut.2023.09.009
+
+8. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
+M. L. C., & Jaime, P. C. (2018). The UN Decade of Nutrition, the NOVA
+food classification and the trouble with ultra-processing. Public
+Health Nutrition, 21(1), 5-17.
+https://pubmed.ncbi.nlm.nih.gov/28322183/
+
+9. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
+M. L. C., & Jaime, P. C. (2019). Ultra-processed foods: what they are
+and how to identify them. Public Health Nutrition, 22(5), 936-941.
+https://doi.org/10.1017/S1368980018003762
+
+10. Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
+Gauci, S., et al. (2024). Ultra-processed food exposure and adverse
+health outcomes: umbrella review of epidemiological meta-analyses.
+BMJ, 384, e077310.
+https://doi.org/10.1136/bmj-2023-077310
+
+11. Braesco, V., Souchon, I., Sauvant, P., Haurogné, T., Maillot, M.,
+Féart, C., & Darmon, N. (2022). Ultra-processed foods: how functional
+is the NOVA system? European Journal of Clinical Nutrition, 76(9),
+1245-1253.
+https://doi.org/10.1038/s41430-022-01099-1
+
+12. Pan American Health Organization. (2019). Ultra-processed food and
+drink products in Latin America: Sales, sources, nutrient profiles,
+and policy implications. Washington, D.C.: PAHO.
+https://iris.paho.org/handle/10665.2/51094
+
 
 
 
