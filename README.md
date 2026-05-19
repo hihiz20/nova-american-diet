@@ -40,7 +40,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
   available in U.S. retail, with ingredient lists suitable for NOVA classification.
 
 Data files are not committed to this repo due to size. Download instructions 
-are in `data/README.md`.
+are in `Data/README.md`.
 
 
 ## Methods
@@ -67,7 +67,7 @@ In progress
 
 ## Progress
 - [x] Data acquisition and ingestion into PostgreSQL
-- [ ] Initial exploratory analysis
+- [x] Initial exploratory analysis
 - [ ] NOVA classification logic for ingredient parsing
 - [ ] Regional / state-level aggregation
 - [ ] Correlation analysis with CDC obesity prevalence data
