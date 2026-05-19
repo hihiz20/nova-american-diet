@@ -24,6 +24,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 - What are the most popular American food category and what NOVA classification does it stand in?
 - Which NOVA classification has the most unique food product?
 - Which food categories dominate the US market?
+- What US food company has the most food products?
 - How many total unique product does each NOVA classification have?
 
 **Ingredients and Consumer Awareness**
