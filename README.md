@@ -60,10 +60,11 @@ In progress
 
 
 ## Repository Structure
-- `SQL/` — schema definitions and queries
-- `Data/` — source gathered from USDA FoodData Central 
-- `Notebooks/` — Jupyter notebooks for ingestion, EDA, and classification
-- `Visuals/` — visualization of the result findings
+
+* [`SQL/`](./SQL) — schema definitions and queries
+* [`Data/`](./Data) — source gathered from USDA FoodData Central
+* [`Notebooks/`](./Notebooks) — Jupyter notebooks for ingestion, EDA, and classification
+* [`Visuals/`](./Visuals) — visualization of the result findings
 
 
 ## Key References
