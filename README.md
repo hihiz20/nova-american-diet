@@ -106,12 +106,18 @@ food classification and the trouble with ultra-processing. Public
 Health Nutrition, 21(1), 5-17.
 https://pubmed.ncbi.nlm.nih.gov/28322183/
 
-7. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
+7. Monteiro, C. A., Cannon, G., Lawrence, M., Costa Louzada, M. L., &
+Pereira Machado, P. (2019). Ultra-processed foods, diet quality, and
+health using the NOVA classification system. Rome: Food and Agriculture
+Organization of the United Nations (FAO).
+https://openknowledge.fao.org/server/api/core/bitstreams/5277b379-0acb-4d97-a6a3-602774104629/content
+
+8. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
 M. L. C., & Jaime, P. C. (2019). Ultra-processed foods: what they are
 and how to identify them. Public Health Nutrition, 22(5), 936-941.
 https://doi.org/10.1017/S1368980018003762
 
-8. Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
+9. Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
 Gauci, S., et al. (2024). Ultra-processed food exposure and adverse
 health outcomes: umbrella review of epidemiological meta-analyses.
 BMJ, 384, e077310.
