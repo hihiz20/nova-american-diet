@@ -10,3 +10,9 @@ To replicate this analysis:
 1. Go to https://fdc.nal.usda.gov/download-datasets
 2. Download the "Branded Foods" dataset
 3. Place the downloaded CSV files in this directory so the Jupyter notebooks can locate and load the data correctly
+
+Map:
+* [`SQL/`](./SQL) — schema definitions and queries
+* [`Data/`](./Data) — source gathered from USDA FoodData Central
+* [`Notebooks/`](./Notebooks) — Jupyter notebooks for ingestion, EDA, and classification
+* [`Visuals/`](./Visuals) — visualization of the result findings
