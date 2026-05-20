@@ -3,7 +3,7 @@
 **Status:** In progress
 
 ## Project Summary
-This project aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification (Monteiro et al., 2016; Monteiro et al., 2018; Monteiro et al., 2019b):
+This project aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification (Monteiro et al., 2016; Monteiro et al., 2018; Monteiro et al., 2019a):
 
 - NOVA 1 - Unprocessed Foods
 - NOVA 2 - Processed Culinary Ingredients
