@@ -53,15 +53,13 @@ are in `Data/README.md`.
 - **Visualization:** Tableau
 
 
-## Results and Discussions
+## Results and Discussions (In progress)
 
-<img width="3000" height="2000" alt="ダウンロード" src="https://github.com/user-attachments/assets/1e7cfc1e-89cf-483a-937c-47a1cd22be2f" />
+<img width="2000" height="2000" alt="ダウンロード" src="https://github.com/user-attachments/assets/1e7cfc1e-89cf-483a-937c-47a1cd22be2f" />
 
-<img width="3569" height="2472" alt="ダウンロード _NOVA3" src="https://github.com/user-attachments/assets/4bfdfe19-be99-43c4-8bb8-3f6707a956b6" />
+<img width="2000" height="2000" alt="ダウンロード _NOVA3" src="https://github.com/user-attachments/assets/4bfdfe19-be99-43c4-8bb8-3f6707a956b6" />
 
 
-
-In progress
 
 
 ## Conclusion
