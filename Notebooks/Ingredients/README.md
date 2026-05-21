@@ -1,4 +1,4 @@
-NOVA2 Ingredients Analysis - Completed
+NOVA1 Ingredients Analysis - Completed
 
 NOVA2 Ingredients Analysis - In Progress
 
