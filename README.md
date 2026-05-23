@@ -55,11 +55,9 @@ are in `Data/README.md`.
 
 ## Results and Discussions (In progress)
 
-<img width="2600" height="2000" alt="ダウンロード" src="https://github.com/user-attachments/assets/1e7cfc1e-89cf-483a-937c-47a1cd22be2f" />
+<img width="1800" height="1048" alt="NOVA4" src="https://github.com/user-attachments/assets/e9676235-4757-46b1-9e75-eaced4eacaf5" />
 
-<img width="2600" height="2000" alt="ダウンロード _NOVA3" src="https://github.com/user-attachments/assets/4bfdfe19-be99-43c4-8bb8-3f6707a956b6" />
-
-
+<img width="1800" height="834" alt="NOVA3" src="https://github.com/user-attachments/assets/2e9494ec-5049-4a76-8d5e-51b344e0061b" />
 
 
 ## Conclusion
