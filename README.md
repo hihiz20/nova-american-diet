@@ -55,7 +55,7 @@ are in `Data/README.md`.
 ## Results and Discussions (In progress)
 <details>
 <summary><b>Q1</b></summary>
-<img width="1800" height="1048" alt="NOVA4" src="https://github.com/user-attachments/assets/e9676235-4757-46b1-9e75-eaced4eacaf5" />
+<img width="700"alt="NOVA4" src="https://github.com/user-attachments/assets/e9676235-4757-46b1-9e75-eaced4eacaf5" />
 
  In progress
 
@@ -63,7 +63,7 @@ are in `Data/README.md`.
 
 <details>
 <summary><b>Q2</b></summary>
-<img width="1800" height="834" alt="NOVA3" src="https://github.com/user-attachments/assets/2e9494ec-5049-4a76-8d5e-51b344e0061b" />
+<img width="1000" alt="NOVA3" src="https://github.com/user-attachments/assets/2e9494ec-5049-4a76-8d5e-51b344e0061b" />
 
 In Progress
 
