@@ -8,14 +8,20 @@ Does every food product you buy at the grocery store claim to be healthy? The ad
 > *"The food advertisement is innocent, but the ingredients tell the truth."* - Hizkia Permata
 
 ## Project Summary
-This project aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification (Monteiro et al., 2016; Monteiro et al., 2018; Monteiro et al., 2019a):
+This project analyzes food products available in the US 
+using the NOVA classification system to identify levels 
+of processing based on common ingredients 
+(Monteiro et al., 2016; 2018; 2019):
 
 - NOVA 1 - Unprocessed Foods
 - NOVA 2 - Processed Culinary Ingredients
 - NOVA 3 - Processed Foods
-- NOVA 4 - Ultra Processed Foods
+- NOVA 4 - Ultra-Processed Foods
 
-Additionally, ingredients will be investigated, specifically the most present ingredients found in each NOVA classification and present the findings visually. Futhermore, will discuss the common ingredients found in every NOVA Classification and draw peer review literature to discuss the health risks or benefits depending on the ingredients found. 
+It also examines the most prevalent ingredients across 
+each NOVA group, presents findings visually, and draws 
+on peer-reviewed literature to discuss the health risks 
+and benefits associated with each classification.
 
 
 ## Why this project: the American Diet Through NOVA Classification
