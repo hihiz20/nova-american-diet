@@ -73,7 +73,7 @@ are in `Data/README.md`.
 
 <details>
 <summary><b>In Progress</b></summary>
-<img width="900" alt="NOVA3 (2)" src="https://github.com/user-attachments/assets/fbb92286-9100-40ec-ba12-db7f484632c2" />
+<img width="1000" alt="NOVA3 (2)" src="https://github.com/user-attachments/assets/fbb92286-9100-40ec-ba12-db7f484632c2" />
   
 In Progress
 
