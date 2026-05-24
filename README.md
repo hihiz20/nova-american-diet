@@ -32,9 +32,9 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 ## Research Questions
 **NOVA Classification**
-- What are the most popular American food category and what NOVA classification does it stand in?
 - Which NOVA classification has the most unique food product?
 - Which food categories dominate the US market?
+- What are the most popular American food category and what NOVA classification does it stand in?
 - How many total unique product does each NOVA classification have?
 
 **Ingredients and Consumer Awareness**
@@ -63,9 +63,8 @@ are in `Data/README.md`.
 
 ## Results and Discussions (In progress)
 <details>
-<summary><b>Q1</b></summary>
-<img width="700" alt="NOVA4" src="https://github.com/user-attachments/assets/7841287b-3804-4c99-a851-2b121572f55a" />
-
+<summary><b>Q1. Which NOVA classification has the most unique food product?</b></summary>
+<img width="1000" alt="NOVA_distribution" src="https://github.com/user-attachments/assets/dad37095-aff3-4e66-9c7b-36ccf2d14cde" />
 
  In progress (Discussions will be added)
 
