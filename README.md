@@ -55,7 +55,8 @@ are in `Data/README.md`.
 ## Results and Discussions (In progress)
 <details>
 <summary><b>Q1</b></summary>
-<img width="700"alt="NOVA4" src="https://github.com/user-attachments/assets/e9676235-4757-46b1-9e75-eaced4eacaf5" />
+<img width="900" alt="NOVA4" src="https://github.com/user-attachments/assets/7841287b-3804-4c99-a851-2b121572f55a" />
+
 
  In progress
 
