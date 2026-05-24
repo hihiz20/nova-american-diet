@@ -1,6 +1,6 @@
 # Investigating the American Diet Through NOVA Classification
 
-**Status:** ![Complete](https://img.shields.io/badge/Data_Collection-Complete-green?style=flat-square) ![Pending](https://img.shields.io/badge/Results_&_Discussions-Pending-gray?style=flat-square) ![In Progress](https://img.shields.io/badge/Visualization-In_Progress-darkred?style=flat-square) ![Pending](https://img.shields.io/badge/Conclusion-Pending-gray?style=flat-square)
+**Status:** ![Complete](https://img.shields.io/badge/Data_Collection-Complete-2E7D32?style=flat-square) ![Complete](https://img.shields.io/badge/Methods-Complete-2E7D32?style=flat-square) ![In Progress](https://img.shields.io/badge/Results_&_Discussions-In_Progress-8B0000?style=flat-square) ![Pending](https://img.shields.io/badge/Conclusion-Pending-6B6B6B?style=flat-square)
 
 ## Introduction
 Does every food product you buy at the grocery store claim to be healthy? The advertisement looks innocent, but the ingredients tell a different story. Less than 1% of food products in the US market are truly minimally processed (NOVA 1 - unprocessed or minimally processed). This project aims to discover the rest of the 99% of the US foods we consume daily using the NOVA Classification System.
