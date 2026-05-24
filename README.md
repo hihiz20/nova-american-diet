@@ -2,7 +2,10 @@
 
 **Status:** In progress
 
-> *"The category is innocent, but the ingredients tell the truth."* - Hizkia Permata
+## Introduction
+Does every food product you buy at the grocery store claim to be healthy? The advertisement looks innocent, but the ingredients tell a different story. Less than 1% of food products in the US market are truly minimally processed (NOVA 1 - unprocessed or minimally processed). This project aims to discover the rest of the 99% of the US foods we consume daily using the NOVA Classification System.
+
+> *"The food advertisement is innocent, but the ingredients tell the truth."* - Hizkia Permata
 
 ## Project Summary
 This project aims to analyze available foods in the US and using NOVA classification system to identify the levels of processed food based on the common ingredients found in each NOVA classification (Monteiro et al., 2016; Monteiro et al., 2018; Monteiro et al., 2019a):
