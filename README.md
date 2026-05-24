@@ -58,15 +58,7 @@ are in `Data/README.md`.
 <img width="700" alt="NOVA4" src="https://github.com/user-attachments/assets/7841287b-3804-4c99-a851-2b121572f55a" />
 
 
- In progress
-
-</details>
-
-<details>
-<summary><b>Q2</b></summary>
-<img width="1000" alt="NOVA3" src="https://github.com/user-attachments/assets/2e9494ec-5049-4a76-8d5e-51b344e0061b" />
-
-In Progress
+ In progress (Discussions will be added)
 
 </details>
 
