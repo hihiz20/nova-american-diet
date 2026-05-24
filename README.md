@@ -15,7 +15,7 @@ This project aims to analyze available foods in the US and using NOVA classifica
 - NOVA 3 - Processed Foods
 - NOVA 4 - Ultra Processed Foods
 
-Additionally, ingredients will be investigated, specifically the most present ingredients found in each NOVA classification and present the findings visually.
+Additionally, ingredients will be investigated, specifically the most present ingredients found in each NOVA classification and present the findings visually. Futhermore, will discuss the common ingredients found in every NOVA Classification and draw peer review literature to discuss the health risks or benefits depending on the ingredients found. 
 
 
 ## Why this project: the American Diet Through NOVA Classification
