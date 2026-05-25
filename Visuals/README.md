@@ -5,7 +5,3 @@ This folder contains data visualizations generated from the NOVA classification 
 ## Contents
 - Coming soon
 
-## Tools Used
-- Tableau
-- Matplotlib
-- Seaborn
