@@ -62,10 +62,11 @@ are in `Data/README.md`.
 
 ## Results and Discussions (In progress)
 <details>
-<summary><b>Q1. Which NOVA classification has the most unique food product?</b></summary>
+<summary><b>Q1. Which NOVA classification has the most unique food products?</b></summary>
 <br>  
 
-<img width="1400" alt="NOVA_distribution" src="https://github.com/user-attachments/assets/dad37095-aff3-4e66-9c7b-36ccf2d14cde" />
+<img width="1400" alt="NOVA Distribution" src="https://github.com/user-attachments/assets/ab9f3f12-6db1-483f-ae81-c9b0e0802185" />
+
 
  In progress (Discussions will be added)
 
