@@ -49,7 +49,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 - Is sugar the most consumed ingredient, and which types of sugars are 
   found and consumed?
 - Are there ingredients, specifically in NOVA 3 and 4, that pose health risks?
-- How many products list sugar (in any form — sucrose, corn syrup, dextrose, 
+- How many products list sugar (in any form - sucrose, corn syrup, dextrose, 
   fructose, etc.) as one of the top 3 ingredients?
 
 
