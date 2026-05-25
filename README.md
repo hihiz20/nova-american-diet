@@ -63,7 +63,9 @@ are in `Data/README.md`.
 ## Results and Discussions (In progress)
 <details>
 <summary><b>Q1. Which NOVA classification has the most unique food product?</b></summary>
-<img width="1000" alt="NOVA_distribution" src="https://github.com/user-attachments/assets/dad37095-aff3-4e66-9c7b-36ccf2d14cde" />
+
+  
+<img width="1200" alt="NOVA_distribution" src="https://github.com/user-attachments/assets/dad37095-aff3-4e66-9c7b-36ccf2d14cde" />
 
  In progress (Discussions will be added)
 
@@ -71,7 +73,9 @@ are in `Data/README.md`.
 
 <details>
 <summary><b>Q2. Which food categories are most popular in the US market, and what NOVA classification does each fall under?</b></summary>
-<img width="1300" alt="Top15FoodNOVAClass" src="https://github.com/user-attachments/assets/77b8768a-e683-46bd-8bf0-8ddfc139a7d3" />
+
+
+<img width="1400" alt="Top15FoodNOVAClass" src="https://github.com/user-attachments/assets/77b8768a-e683-46bd-8bf0-8ddfc139a7d3" />
 
 
 
