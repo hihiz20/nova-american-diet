@@ -72,7 +72,7 @@ are in `Data/README.md`.
 
 ## Results and Discussions (In progress)
 <details>
-<summary><b>Q1. How many total unique food products does each NOVA classification have? Which NOVA classification dominates the US food market - and why?</b></summary>
+<summary><b>Q1. How many total unique food products does each NOVA classification have?<br> Which NOVA classification dominates the US food market - and why?</b></summary>
 <br>  
 
 <img width="1400" alt="NOVA Distribution" src="https://github.com/user-attachments/assets/ab9f3f12-6db1-483f-ae81-c9b0e0802185" />
