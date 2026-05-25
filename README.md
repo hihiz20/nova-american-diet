@@ -66,6 +66,7 @@ are in `Data/README.md`.
 <br>  
 
 <img width="1400" alt="NOVA Distribution" src="https://github.com/user-attachments/assets/ab9f3f12-6db1-483f-ae81-c9b0e0802185" />
+<br>
 
 NOVA 4 contains the most unique food products in the US market. The image above shows a horizontal bar graph that projects the total food products available in the US market and labeling it with NOVA classification system. Each NOVA classification system that is labeled from 1 to 4 has different colors marked with green, yellow, orange, and red. Every color represents the different levels of processness, added ingredients and chemicals, and how much it’s been altered through food engineering.
 
