@@ -115,47 +115,59 @@ In progress
 <details>
 <summary><b>Click to expand the full list of references</b></summary>
 
-1. Amaraggi, B., Wood, W., Guinovart Martín, L., Giménez Sánchez, J.,
+Amaraggi, B., Wood, W., Guinovart Martín, L., Giménez Sánchez, J.,
 Fleta Sánchez, Y., & de la Garza Puentes, A. (2024). Ultra-processed
 food staples dominate mainstream U.S. supermarkets. medRxiv [Preprint].
 https://doi.org/10.1101/2024.02.16.24302894
 
-2. Juul, F. et al. (2022). Ultra-processed food consumption among
+Ask the Doctors. (2022, October 26). Ultraprocessed foods engineered to target reward centers. UCLA Health. uclahealth.org
+
+Campbell, N., Browne, S., Claudy, M., Reilly, K., Finucane, F. M. (2025). Food industry degrowth as a public health strategy: The case of ultra processed baked goods. Globalization and Health, 22(1), Article 10. https://doi.org/10.1186/s12992-025-01178-5
+
+Hough, K., Friuli, M., Avena, N. M., & Romano, A. (2026). The addicted brain: How processed foods hijack reward pathways. Pharmacological Research, 224, Article 108097. doi.org
+
+Juul, F. et al. (2022). Ultra-processed food consumption among
 US adults from 2001 to 2018. American Journal of Clinical
 Nutrition, 115(1), 211–221.
 https://doi.org/10.1093/ajcn/nqab305
 
-3. Marino, M. et al. (2021). A Systematic Review of Worldwide
+Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
+Gauci, S., et al. (2024). Ultra-processed food exposure and adverse
+health outcomes: umbrella review of epidemiological meta-analyses.
+BMJ, 384, e077310.
+https://doi.org/10.1136/bmj-2023-077310
+
+Make America Healthy Again Commission. (2025). Make our children healthy again assessment. The White House. https://www.whitehouse.gov/wp-content/uploads/2025/05/MAHA-Report-The-White-House.pdf
+
+Marino, M. et al. (2021). A Systematic Review of Worldwide
 Consumption of Ultra-Processed Foods. PMC.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8398521/
 
-4. Monteiro, C. A., Cannon, G., Levy, R. B., Moubarac, J. C., Jaime, P.,
-Martins, A. P., et al. (2016). NOVA. The star shines bright.
-World Nutrition, 7(1-3), 28-38.
-https://www.worldnutritionjournal.org/index.php/wn/article/view/5
-
-5. Monteiro, C. A., Cannon, G., Lawrence, M., Costa Louzada, M. L., &
+Monteiro, C. A., Cannon, G., Lawrence, M., Costa Louzada, M. L., &
 Pereira Machado, P. (2019). Ultra-processed foods, diet quality, and
 health using the NOVA classification system. Rome: Food and Agriculture
 Organization of the United Nations (FAO).
 https://openknowledge.fao.org/server/api/core/bitstreams/5277b379-0acb-4d97-a6a3-602774104629/content
 
-6. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
+Monteiro, C. A., Cannon, G., Levy, R. B., Moubarac, J. C., Jaime, P.,
+Martins, A. P., et al. (2016). NOVA. The star shines bright.
+World Nutrition, 7(1-3), 28-38.
+https://www.worldnutritionjournal.org/index.php/wn/article/view/5
+
+Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
 M. L. C., & Jaime, P. C. (2018). The UN Decade of Nutrition, the NOVA
 food classification and the trouble with ultra-processing. Public
 Health Nutrition, 21(1), 5-17.
 https://pubmed.ncbi.nlm.nih.gov/28322183/
 
-7. Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
+Monteiro, C. A., Cannon, G., Moubarac, J. C., Levy, R. B., Louzada,
 M. L. C., & Jaime, P. C. (2019). Ultra-processed foods: what they are
 and how to identify them. Public Health Nutrition, 22(5), 936-941.
 https://doi.org/10.1017/S1368980018003762
 
-8. Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
-Gauci, S., et al. (2024). Ultra-processed food exposure and adverse
-health outcomes: umbrella review of epidemiological meta-analyses.
-BMJ, 384, e077310.
-https://doi.org/10.1136/bmj-2023-077310
+Rao, P., Rodriguez, R. L., & Shoemaker, S. P. (2018). Addressing the sugar, salt, and fat issue the science of food way. npj Science of Food, 2, Article 12. https://doi.org/10.1038/s41538-018-0020-x
+
+Wang, L., Martínez Steele, E., Du, M., Pomeranz, J. L., Noubary, F., Zhang, F. F., & Monteiro, C. A. (2021). Trends in consumption of ultraprocessed foods among US youths, 1999–2018. JAMA, 326(6), 519–530. doi.org
 
 
 </details>
