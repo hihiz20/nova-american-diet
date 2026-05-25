@@ -35,8 +35,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 ## Research Questions
 
 **NOVA Classification**
-- How many total unique food products does each NOVA classification have?
-    Which NOVA classification dominates the US food market?
+- How many total unique food products does each NOVA classification have? Which NOVA classification dominates the US food market?
 - What are the most popular American food categories that dominate the US, 
   and what NOVA classification do they fall under?
 - Out of all the food categories in the US, what proportion falls into each 
@@ -72,7 +71,7 @@ are in `Data/README.md`.
 
 ## Results and Discussions (In progress)
 <details>
-<summary><b>Q1. How many total unique food products does each NOVA classification have?<br> Which NOVA classification dominates the US food market - and why?</b></summary>
+<summary><b>Q1. How many total unique food products does each NOVA classification have?<br>&ensp;Which NOVA classification dominates the US food market - and why?</b></summary>
 <br>  
 
 <img width="1400" alt="NOVA Distribution" src="https://github.com/user-attachments/assets/ab9f3f12-6db1-483f-ae81-c9b0e0802185" />
