@@ -68,6 +68,7 @@ are in `Data/README.md`.
 <img width="1400" alt="NOVA Distribution" src="https://github.com/user-attachments/assets/ab9f3f12-6db1-483f-ae81-c9b0e0802185" />
 <br>
 
+
 NOVA 4 contains the most unique food products in the US market. The image above shows a horizontal bar graph that projects the total food products available in the US market and labeling it with NOVA classification system. Each NOVA classification system that is labeled from 1 to 4 has different colors marked with green, yellow, orange, and red. Every color represents the different levels of processness, added ingredients and chemicals, and how much it’s been altered through food engineering.
 
 The results shows that NOVA 4 has over a million different types of food products in the US market that was produced from different food brands and food companies (Amaraggi et al., 2024; Campbell et al., 2025). According to several studies, ultra-processed foods account for more than 60% of the total daily caloric intake among American children and young adults (Juul et al., 2022; Make America Healthy Again Commission, 2025; Wang et al., 2021).
@@ -114,6 +115,8 @@ In progress
 ## References 
 <details>
 <summary><b>Click to expand the full list of references</b></summary>
+<br>
+
 
 Amaraggi, B., Wood, W., Guinovart Martín, L., Giménez Sánchez, J.,
 Fleta Sánchez, Y., & de la Garza Puentes, A. (2024). Ultra-processed
