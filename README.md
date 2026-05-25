@@ -72,8 +72,8 @@ are in `Data/README.md`.
 
 <details>
 <summary><b>Q2. Which food categories are most popular in the US market, and what NOVA classification does each fall under?</b></summary>
-<br>
-<img width="1400" alt="Top15FoodNOVAClass" src="https://github.com/user-attachments/assets/9e1504d9-183b-43d4-9136-064d0b5687b2" />
+
+<img width="1400" alt="Top15FoodNOVAClass" src="https://github.com/user-attachments/assets/1acabd0d-a206-495b-bdce-8184be3f845c" />
 
 
 
