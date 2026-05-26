@@ -96,9 +96,16 @@ The next research question explores the most popular food categories by NOVA cla
   
 <img width="1400" alt="Top15FoodNOVAClass" src="https://github.com/user-attachments/assets/1acabd0d-a206-495b-bdce-8184be3f845c" />
 
+The most popular food category from the top 15 in the US market is popcorn, peanuts, seeds, and related snacks which falls under NOVA 4 category, having a total group of 91,619 unique food brands and companies. The horizontal bar graphs represents different types of food categories alongside NOVA category and the total production made from different US food brands and food companies. The result above shows that 68.19% of the common food categories found at home fall under NOVA 4 category and 31.81%. fall under NOVA 3, 1, and Other/Unclassified are also found at home which includes common foods found in fridge, freezer, and food cabinet. 
 
+Looking back from the results and discussion from the first research question. It is clear that the US food market is highly skewed towards NOVA 4 category. According to the results found above, there are several food categories that fall under NOVA 4, 3, 1, and other/unclassified:
 
-In Progress
+- **NOVA 4:** popcorn, peanuts, seeds, candy, ice cream, frozen yogurt, chips, chocolate, bars, cereal, and seasonings.
+- **NOVA 3:** cheese, breads and buns, yogurt
+- **NOVA 1:** pickles, olives, peppers and relishes
+- **Other/Unclassified:** fruits and vegetables, juice, nectars and fruit drinks
+
+Returning to the previous mention of the “bliss point”. It is obvious that all food categories that fall under NOVA 4 and NOVA 3 are what makes human crave more. In addition to the bliss point, consumption of these foods can cause these foods to become a comfort food or stress reliever due to the ingredients that signals the brain’s reward system. This can develop a new neural pathway for humans to crave more ultra-processed food whenever individuals are feeling stressed, having a personal crisis, depressed, or bored, but gives short term pleasure, which can also expose individuals with industrial and lab made chemicals that could pose significant health risks in the future (Dallman et al., 2003; Make America Healthy Again Commission, 2025; McKay et al., 2021; Vitale et al., 2024; Wu et al., 2025; Pacyga et al., 2025).
 
 </details>
 
@@ -136,6 +143,8 @@ Ask the Doctors. (2022, October 26). Ultraprocessed foods engineered to target r
 
 Campbell, N., Browne, S., Claudy, M., Reilly, K., Finucane, F. M. (2025). Food industry degrowth as a public health strategy: The case of ultra processed baked goods. Globalization and Health, 22(1), Article 10. https://doi.org/10.1186/s12992-025-01178-5
 
+Dallman, M. F., Pecoraro, N., Akana, S. F., la Fleur, S. E., Gomez, F., Houshyar, H., Bell, M. E., Bhatnagar, S., Laugero, K. D., & Manalo, S. (2003). Chronic stress and obesity: A new view of "comfort food." Proceedings of the National Academy of Sciences of the United States of America, 100(20), 11696–11701. https://doi.org/10.1073/pnas.1934666100
+
 Hough, K., Friuli, M., Avena, N. M., & Romano, A. (2026). The addicted brain: How processed foods hijack reward pathways. Pharmacological Research, 224, Article 108097. doi.org
 
 Juul, F. et al. (2022). Ultra-processed food consumption among
@@ -146,14 +155,15 @@ https://doi.org/10.1093/ajcn/nqab305
 Lane, M. M., Gamage, E., Du, S., Ashtree, D. N., McGuinness, A. J.,
 Gauci, S., et al. (2024). Ultra-processed food exposure and adverse
 health outcomes: umbrella review of epidemiological meta-analyses.
-BMJ, 384, e077310.
-https://doi.org/10.1136/bmj-2023-077310
+BMJ, 384, e077310. https://doi.org/10.1136/bmj-2023-077310
 
 Make America Healthy Again Commission. (2025). Make our children healthy again assessment. The White House. https://www.whitehouse.gov/wp-content/uploads/2025/05/MAHA-Report-The-White-House.pdf
 
 Marino, M. et al. (2021). A Systematic Review of Worldwide
 Consumption of Ultra-Processed Foods. PMC.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8398521/
+
+McKay, N., Przybysz, J., Cavanaugh, A., Horvatits, E., Giorgianni, N., & Czajka, K. (2021). The effect of unhealthy food and liking on stress reactivity. Physiology & Behavior, 229, Article 113216. https://doi.org/10.1016/j.physbeh.2020.113216
 
 Monteiro, C. A., Cannon, G., Lawrence, M., Costa Louzada, M. L., &
 Pereira Machado, P. (2019). Ultra-processed foods, diet quality, and
@@ -177,12 +187,17 @@ M. L. C., & Jaime, P. C. (2019). Ultra-processed foods: what they are
 and how to identify them. Public Health Nutrition, 22(5), 936-941.
 https://doi.org/10.1017/S1368980018003762
 
+Pacyga, D. C., Buckley, J. P., Martinez-Steele, E., Bommarito, P. A., Ferguson, K. K., & Stevens, D. R. (2025). Degree of food processing and serum poly- and perfluoroalkyl substance concentrations in the US National Health and Nutrition Examination Survey, 2003–2018. International Journal of Hygiene and Environmental Health, 266, Article 114557. https://doi.org/10.1016/j.ijheh.2025.114557
+
 Pellegrini, B., Strootman, L. X., Fryganas, C., Martini, D., & Fogliano, V. (2024). Home-made vs industry-made: Nutrient composition and content of potentially harmful compounds of different food products. Current Research in Food Science, 10, Article 100958. doi.org
 
 Rao, P., Rodriguez, R. L., & Shoemaker, S. P. (2018). Addressing the sugar, salt, and fat issue the science of food way. npj Science of Food, 2, Article 12. https://doi.org/10.1038/s41538-018-0020-x
 
+Vitale, M., Costabile, G., Testa, R., D'Abbronzo, G., Nettore, I. C., Macchia, P. E., & Giacco, R. (2024). Ultra-processed foods and human health: A systematic review and meta-analysis of prospective cohort studies. Advances in Nutrition, 15(1), Article 100121. https://doi.org/10.1016/j.advnut.2023.09.009
+
 Wang, L., Martínez Steele, E., Du, M., Pomeranz, J. L., Noubary, F., Zhang, F. F., & Monteiro, C. A. (2021). Trends in consumption of ultraprocessed foods among US youths, 1999–2018. JAMA, 326(6), 519–530. doi.org
 
+Wu, F., Vartanian, L. R., & Faasse, K. (2025). Why do we eat comfort food? Exploring expectations regarding comfort food and their relationship with comfort eating frequency. Nutrients, 17(14), Article 2259. https://doi.org/10.3390/nu17142259.
 
 </details>
 
