@@ -107,6 +107,8 @@ Looking back from the results and discussion from the first research question. I
 
 Returning to the previous mention of the “bliss point”. It is obvious that all food categories that fall under NOVA 4 and NOVA 3 are what makes human crave more. In addition to the bliss point, consumption of these foods can cause them to become a comfort food or stress reliever due to the ingredients that signal the brain's reward system. This can develop a new neural pathway for humans to crave more ultra-processed food whenever individuals are feeling stressed, having a personal crisis, depressed, or bored, but gives short term pleasure, which can also expose individuals with industrial and lab made chemicals that could pose significant health risks in the future (Dallman et al., 2003; Make America Healthy Again Commission, 2025; McKay et al., 2021; Vitale et al., 2024; Wu et al., 2025; Pacyga et al., 2025).
 
+While individuals consume NOVA 3 and NOVA 4 as part of their daily diet, the next research question aims to explore whether excessive consumption of NOVA 3 and NOVA 4 correlates with potential health risks over time.
+
 </details>
 
 <details>
