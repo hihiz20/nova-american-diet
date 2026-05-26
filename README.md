@@ -177,6 +177,8 @@ M. L. C., & Jaime, P. C. (2019). Ultra-processed foods: what they are
 and how to identify them. Public Health Nutrition, 22(5), 936-941.
 https://doi.org/10.1017/S1368980018003762
 
+Pellegrini, B., Strootman, L. X., Fryganas, C., Martini, D., & Fogliano, V. (2024). Home-made vs industry-made: Nutrient composition and content of potentially harmful compounds of different food products. Current Research in Food Science, 10, Article 100958. doi.org
+
 Rao, P., Rodriguez, R. L., & Shoemaker, S. P. (2018). Addressing the sugar, salt, and fat issue the science of food way. npj Science of Food, 2, Article 12. https://doi.org/10.1038/s41538-018-0020-x
 
 Wang, L., Martínez Steele, E., Du, M., Pomeranz, J. L., Noubary, F., Zhang, F. F., & Monteiro, C. A. (2021). Trends in consumption of ultraprocessed foods among US youths, 1999–2018. JAMA, 326(6), 519–530. doi.org
