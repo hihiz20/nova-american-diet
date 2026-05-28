@@ -119,7 +119,25 @@ While individuals consume NOVA 3 and NOVA 4 as part of their daily diet, the nex
 </details>
 
 <details>
-<summary><b>Q3. In Progress</b></summary>
+<summary><b>Q3. Is there a strong correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (Ultra-Processed) consumption in the US?</b></summary>
+<br>
+
+
+There are noticeable patterns in the American diet regarding the consumption of NOVA 3 and NOVA 4 foods. According to several research studies and articles, children and adults who frequently or regularly consume large quantities of processed and ultra-processed foods as a part of their diet will develop significant health risks in the future (American College of Cardiology, 2025; Chamarthi et al., 2025; Ferrucci et al., 2025; Fuhrman, 2018; Garone, 2026; Godsey et al., 2025; Lane et al., 2022; Mekonnen et al., 2025; Menegassi & Vinciguerra, 2025; Poti et al., 2017; Rondinella et al., 2025; Stanford Medicine, 2025; Temple, 2024; Vitale et al., 2024; Whelan et al., 2024; Yi et al., 2025). The US market is overwhelmed with processed and ultra-processed foods that pose one or more possible health risks, which include but are not limited to:
+
+**Cardiovascular Diseases:** Coronary Heart Disease, Cerebrovascular Disease, Cardiovascular Mortality, Hypertension, Ischemic Heart Attacks, Angina
+
+**Cognitive Risks:** Developmental delays, fatigue, faster cognitive decline, decreased attention and memory, neuroinflammation, risk of developing dementia
+
+**Metabolic & Endocrine Disorders:** Type 2 Diabetes, Clinical Obesity, Metabolic Syndrome, Hypertriglyceridemia, Low HDL Cholesterol, Dyslipidemia, Hyperglycemia
+
+**Mental Health & Neurological Issues:** Severe Anxiety Disorders, Clinical Depression, Chronic Sleep Disturbances, Cognitive Decline
+
+**Cancer Risks:** Colorectal Cancer, Precancerous Polyps (Adenomas) Breast Cancer, Pancreatic Cancer
+
+**Gastrointestinal and Gut Illness:** Crohn's Disease, Ulcerative Colitis, Irritable Bowel Syndrome (IBS), Gut Microbiome Dysbiosis, Nonalcoholic Fatty Liver Disease (NAFLD)
+
+**Respiratory & General Sicknesses:** Clinical Asthma, Chronic Wheezing, Systemic Low-Grade Inflammation, Physical Frailty, All-Cause Mortality
 
 </details>
 
