@@ -46,7 +46,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness?
-- What are percentage of ingredients that are dominating the food categories in NOVA 3 and NOVA 4?
+- What percentage of ingredients dominate the food categories in NOVA 3 and NOVA 4?
 
 **Unexplored NOVA**
 - Why are NOVA 1 and NOVA 2 products produced significantly less than 
