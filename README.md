@@ -51,6 +51,14 @@ Food is essential for human survival, providing nourishment our bodies need to f
 - How many products list sugar (in any form - sucrose, corn syrup, dextrose, 
   fructose, etc.) as one of the top 3 ingredients?
 
+**Unexplored NOVA**
+- Why are NOVA 1 and NOVA 2 products produced significantly less than 
+  NOVA 3 and NOVA 4 in the US market?
+- How does the modern US food landscape compare to historical dietary 
+  patterns before the rise of industrial food processing?
+- What are the potential health benefits of shifting consumption from 
+  NOVA 3 and NOVA 4 toward NOVA 1 and NOVA 2 foods?
+
 
 ## Data
 - **Source:** USDA FoodData Central, Branded Foods dataset (December 2025 release)
