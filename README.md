@@ -117,7 +117,7 @@ While individuals consume NOVA 3 and NOVA 4 as part of their daily diet, the nex
 </details>
 
 <details>
-<summary><b>Q3. Is there a strong correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (Ultra-Processed) consumption in the US?</b></summary>
+<summary><b>Q3. Is there a correlation between health risks and higher consumption of NOVA 3 (processed) and NOVA 4 (ultra-processed) foods in the US?</b></summary>
 <br>
 
 
