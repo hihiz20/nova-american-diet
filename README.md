@@ -87,7 +87,7 @@ Additionally, NOVA 4 is consumed more than any other NOVA category because of ho
 
 Other than NOVA 4, which accounts for approximately 70.5%, NOVA 1 to 3, which accounts for approximately 29.5%, these categories are produced less in the US because of their short shelf life and expensive production. NOVA 4 is cheaper because it uses active chemical ingredients that separates from the rest of NOVA cateogories such as cosmetic and industrial additives that are not found at home, chemicals added to avoid spoilage and last longer, and hyper-palatability. 
 
-The next research question explores the most popular food categories by NOVA classification to further examing NOVA 4’s domincance in the US food market.
+The next research question explores the most popular food categories by NOVA classification to further examing NOVA 4’s dominance in the US food market.
 
 </details>
 
