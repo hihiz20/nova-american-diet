@@ -38,10 +38,10 @@ Food is essential for human survival, providing nourishment our bodies need to f
 - How many total unique food products does each NOVA classification have? Which NOVA classification dominates the US food market?
 - What are the most popular American food categories that dominate the US, 
   and what NOVA classification do they fall under?
-- Out of all the food categories in the US, what proportion falls into each 
-  NOVA category (1 through 4)?
 - Is there a strong correlation between health risks and NOVA 3 and NOVA 4 
   consumption in the US?
+- Out of all the food categories in the US, what proportion falls into each 
+  NOVA category (1 through 4)?
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in each NOVA classification?
