@@ -143,7 +143,7 @@ In children, exposure to daily, frequeny, or large consumption of processed and 
 
 While adults, the risks of frequent consumption of processed and ultra processed foods will lead but limited to obesity, type 2 diabetes, heart and blood vessel disease, high blood pressure, higher cancer risks, mental health concerns, and increased arthritis (Ciaffi et al., 2025; Lane et al., 2022; Oladele et al., 2024; Temple, 2024; Willett et al., 2026).
 
-The correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (Ultra-Processed) consumption can develop potential health risk(s) as shown above. The next research question further explores the root cause of these illnesses among Americans where ingredients tells the truth and utilizing visualization to extract the most occuring ingredients found in different food categories and determine the type of NOVA classifcation based on the ingredients.
+The correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (Ultra-Processed) consumption can develop potential health risk(s) as shown above. The next research question further explores the root cause of these illnesses among Americans where ingredients tells the truth and utilizing visualizations to show the occuring NOVA 4 and NOVA 3 ingredients found in different food categories that leads to health problems.
 
 </details>
 
