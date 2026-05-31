@@ -8,6 +8,9 @@ NOVA3 Ingredients Analysis - In Progress
 
 NOVA4 Ingredients Analysis - In Progress
 
+Q4. What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness? - Completed <br>
+Link: https://colab.research.google.com/drive/1b8kOa9-tRlWyEOpAXsH7e2PZae_OIQdr?usp=sharing
+
 
 **References**
 1. Agriculture Institute. (2026). How Chemicals are Used in the Curing
