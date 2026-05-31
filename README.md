@@ -1,5 +1,7 @@
 # Investigating the American Diet Through NOVA Classification
 
+NOTE: Due to a known GitHub server rendering bug ("An error occurred"), the code cells ([`Notebooks/`](./Notebooks)) may fail to display directly on this page. Alternative link is provided to see the code.
+
 **Status:**
 <br>
 ![Complete](https://img.shields.io/badge/Data_Collection-Complete-2E7D32?style=flat-square) ![Complete](https://img.shields.io/badge/Methods-Complete-2E7D32?style=flat-square) ![In Progress](https://img.shields.io/badge/Results_&_Discussions-In_Progress-8B0000?style=flat-square) ![Pending](https://img.shields.io/badge/Conclusion-Pending-6B6B6B?style=flat-square)
