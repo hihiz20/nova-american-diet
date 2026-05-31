@@ -1,4 +1,5 @@
 NOVA1 Ingredients Analysis - Completed
+Link: https://colab.research.google.com/github/hihiz20/nova-american-diet/blob/main/Notebooks/Ingredients/NOVA1_Ingredient_Analysis.ipynb
 
 NOVA2 Ingredients Analysis - Completed
 
