@@ -137,7 +137,9 @@ There are noticeable patterns in the American diet regarding the consumption of 
 
 **Respiratory & General Sicknesses:** Clinical Asthma, Chronic Wheezing, Systemic Low-Grade Inflammation, Physical Frailty, All-Cause Mortality
 
-In children, exposure to daily, frequeny, or large consumption of processed and ultra-processed food including breakfast, lunch, snacks, desser, and dinner will lead but not limited to overeating due to the hyper-palatability, poor behaviour score, inflammation, obesity, insulin resistance, Type 2 diabetes, delayed cognitive growth, attention deficits, and poorer academic performance (Bryner, 2026; Mottis et al., 2025).
+In children, exposure to daily, frequeny, or large consumption of processed and ultra-processed food including breakfast, lunch, snacks, desser, and dinner will lead but not limited to overeating due to the hyper-palatability, poor behaviour score, inflammation, obesity, insulin resistance, Type 2 diabetes, delayed cognitive growth, attention deficits, and poorer academic performance (Bryner, 2026; Lane et al., López-Gil et al., 2025; 2022; Mottis et al., 2025)
+
+While adults, the risks of frequent consumption of processed and ultra processed foods will lead but limited to obesity, type 2 diabetes, heart and blood vessel disease, high blood pressure, higher cancer risks, mental health concerns, and increased arthritis (Ciaffi et al., 2025; Lane et al., 2022; Oladele et al., 2024; Temple, 2024; Willett et al., 2026).
 
 The correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (Ultra-Processed) consumption can develop potential health risk(s) as shown above. The next research question further explores the root cause of these illnesses among Americans where ingredients tells the truth and utilizing visualization to extract the most occuring ingredients found in different food categories and determine the type of NOVA classifcation based on the ingredients.
 
