@@ -4,8 +4,8 @@ Link: https://colab.research.google.com/github/hihiz20/nova-american-diet/blob/m
 NOVA2 Ingredients Analysis - Completed <br>
 Link: https://colab.research.google.com/github/hihiz20/nova-american-diet/blob/main/Notebooks/Ingredients/NOVA2_Ingredients_Analysis.ipynb
 
-NOVA 3 & 4 Ingredient Analysis (Q4) - Completed <br>
-Link: https://colab.research.google.com/drive/1y5VRjLYj0u6V6lgB8R6ISvZhn7aveEFD?usp=sharing
+NOVA 3 & 4 Ingredient Analysis (Q4) - In progress <br>
+Link: 
 
 
 **References**
