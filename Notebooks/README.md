@@ -1,6 +1,6 @@
 # Notebooks
 
-NOTE: Alternative links provided to access the code.
+NOTE: Due to an error on opening the code file (.ipynb) on GitHub. Alternative links provided to access the code temporarily.
 
 This folder contains Jupyter notebooks focusing on data ingestion, exploratory data analysis (EDA), NOVA series classification, and NOVA series ingredients analysis. 
 Python was used before SQL due to the complexity and disorganized nature of the dataset pulled from USDA FoodData Central. 
