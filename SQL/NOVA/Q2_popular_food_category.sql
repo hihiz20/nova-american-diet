@@ -11,4 +11,4 @@ FROM (
 ) ranked
 WHERE rn = 1
 ORDER BY total_products DESC
-LIMIT 10;
+LIMIT 15;
