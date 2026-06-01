@@ -1,4 +1,4 @@
--- What are the most popular American food category and what NOVA classification does it stand in?
+-- Q2. What are the most popular American food categories that dominate the US, and what NOVA classification do they fall under?
 SELECT branded_food_category, dominant_nova, total_products
 FROM (
     SELECT
