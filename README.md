@@ -147,6 +147,11 @@ The correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (U
 
 <details>
 <summary><b>Q4. In Progress</b></summary>
+<br>
+
+<img width="1700" alt="Sheet 1" src="https://github.com/user-attachments/assets/585409e6-314c-4aa5-b973-ec9b513d3b8b" />
+
+
 
 </details>
 
