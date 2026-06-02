@@ -150,9 +150,9 @@ The correlation between health risks and higher NOVA 3 (processed) and NOVA 4 (U
 <br>
 
 <img width="1890" alt="Sheet 1(2)" src="https://github.com/user-attachments/assets/c001a5ce-da67-4cc2-806b-8f01416669a1" />
+<br>
 
-
-In progress...
+The vizualization above shows the most common ingredients found both in NOVA 3 and NOVA 4 along with the name of the food product(s) where that ingredient are most present in. The result of the visualization does not answer to Q4 in this project due to limiations. In the previous question, the question dicussed the common health risks on frequent processd and ultra-processed food consumption. Moving to the current question, the question aimed to identify common industrial ingredients that leads to health risks as mentioned in Q3. The limitation of this finding is that base ingredients like salt, sugar, and water appear in nearly every product. Their dominance in the frequency count dilutes the additives and industrial ingredients that this question aimed to surface. Additionally, there are few common ingredients that contribute health problems when consuming processed (NOVA 3) and ultra-processed (NOVA 4) foods frequently based on peer review literature such as added sugars (sugar, corn syrup, dextrose, maltodextrin), sodium (salt, sea salt), and industrial seed oils (soybean oil) (Juul et al., 2022; Lane et al., 2024; Temple, 2024; Willett et al., 2026).
 
 
 </details>
