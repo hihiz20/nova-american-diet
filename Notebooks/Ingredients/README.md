@@ -1,4 +1,4 @@
-NOVA1 Ingredients Analysis - Completed
+NOVA1 Ingredients Analysis (Introduction findings) - Completed
 
 NOVA2 Ingredients Analysis - Completed
 
