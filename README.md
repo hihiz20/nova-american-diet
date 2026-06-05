@@ -27,7 +27,7 @@ and benefits associated with each classification.
 
 
 ## Why this project: Investigating the American Diet Through NOVA Classification
-Today, the US is known for producing and consuming the most processed (NOVA 3) and ultra-processed (NOVA 4) foods in the world. Consumption of these NOVA 3 and 4 overtime can lead to health issues, obesity, overweight, diabetes, and several other health issues that could rise over time. This project aims to provide valuable insights about the foods we consume daily through research questions, then utilizing vizualizations to spread awareness to individuals who wants to eat healthier, prevent having further health issues, make healthy choices, lose weight, limiting specific food(s), and list of ingredients to avoid that are present in NOVA 3 (Processed Foods) and NOVA 4 (Ultra Processed Foods) as these classifications have more additives and industrial ingredients than NOVA 1 (Unprocessed Foods) and NOVA 2 (Processed Culinary Ingredients).
+Today, the US is known for producing and consuming the most processed (NOVA 3) and ultra-processed (NOVA 4) foods in the world. Consumption of these NOVA 3 and 4 overtime can lead to health issues, obesity, overweight, diabetes, and several other health issues that could rise over time. This project aims to provide valuable insights about the foods we consume daily through research questions, then utilizing vizualizations to spread awareness to individuals who wants to eat healthier, prevent having further health issues, make healthy choices, lose weight, limiting specific food(s), and list of ingredients to avoid that are present in NOVA 3 (Processed Foods) and NOVA 4 (Ultra-Processed Foods), as NOVA 3 contains higher concentrations of salt, sugar, and oil, while NOVA 4 introduces additional additives and industrial ingredients not found in NOVA 1 (Unprocessed Foods) and NOVA 2 (Processed Culinary Ingredients).
 
 Food is essential for human survival, providing nourishment our bodies need to function. Yet in this modern age, the foods we consume are packed with additives that we often never read the ingredients labeled. Long ago, humans would eat food that are natural, having strong medicinal properties, handmade, and organic. Now that technology and science have evolved, our diet is less exposed to natural and organic foods. Today, our meals are shaped by Agricultural Biotechnology, Food Engineer, and Sensory Science (to maximize the addictive appeal and maximize palatability). This leads to the rise processed and ultra process foods (Lane et al., 2024). According to several findings and research, the United States is still consistently producing the most processed and ultra processed food production in the world, as well as one of the highest consumption rates (Amaraggi et al., 2024, preprint; Marino et al., 2021; Juul et al., 2022). 
 
@@ -44,7 +44,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness?
-- How many additives and Industrial Ingredients are present in NOVA 3 and NOVA 4?
+- What and how many known ingredients are present in NOVA 3 and NOVA 4 that cause health problems?
 - How many products list sugar (in any form - sucrose, corn syrup, 
   dextrose, fructose, etc.) as one of the top 10 ingredients?
 
@@ -165,7 +165,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 
 
 <details>
-<summary><b>Q5. How many additives and Industrial Ingredients are present in NOVA 3 and NOVA 4? (In progress)</b></summary>
+<summary><b>Q5. What and how many known ingredients are present in NOVA 3 and NOVA 4 that cause health problems? (In progress)</b></summary>
 <br>
   
 The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues. Since the result was limited, base ingredients such as water, sugar, and salt dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 3 and NOVA 4.  This next question aims to narrow the ingredients down to focus on how much additives and industrial ingredients are presently found in popular food categories.
