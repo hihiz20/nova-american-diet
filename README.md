@@ -168,7 +168,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 <summary><b>Q5. How many additives and Industrial Ingredients are present in NOVA 3 and NOVA 4? (In progress)</b></summary>
 <br>
   
-The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues. Since the result was limited, base ingredients such as water, sugar, and salt dominated the top 20 list — overshadowing the additives and industrial ingredients classified under NOVA 3 and NOVA 4.  This next question aims to narrow the ingredients down to focus on how much additives and industrial ingredients are presently found in popular food categories.
+The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues. Since the result was limited, base ingredients such as water, sugar, and salt dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 3 and NOVA 4.  This next question aims to narrow the ingredients down to focus on how much additives and industrial ingredients are presently found in popular food categories.
 
 </details>
 
