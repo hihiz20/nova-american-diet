@@ -44,7 +44,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness?
-- What and how many known ingredients are present in NOVA 3 and NOVA 4 that cause health problems?
+- What ingredients in NOVA 3 and NOVA 4 contribute to health risks that are found in popular food category when consumed frequently?
 - How many products list sugar (in any form - sucrose, corn syrup, 
   dextrose, fructose, etc.) as one of the top 10 ingredients?
 
@@ -165,10 +165,14 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 
 
 <details>
-<summary><b>Q5. What and how many known ingredients are present in NOVA 3 and NOVA 4 that cause health problems? (In progress)</b></summary>
+<summary><b>Q5. What ingredients in NOVA 3 and NOVA 4 contribute to health risks that are found in popular food category when consumed frequently? (In progress)</b></summary>
 <br>
   
-The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues. Since the result was limited, base ingredients such as water, sugar, and salt dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 3 and NOVA 4.  This next question aims to narrow the ingredients down to focus on how much additives and industrial ingredients are presently found in popular food categories.
+The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues when frequently consumed. Since the result was limited, base ingredients such as salt, sugar, water, citric acid, folic acid, and others dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 4. 
+
+Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, and oil) based on the popular food categories. However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019) and represent the most commonly identified markers of ultra-processing, but they are not a complete list.
+
+This question aims to narrow the ingredients down to focus on how many ingredients that are classified as NOVA 3  and NOVA 4 are presently found in popular food categories. The visualization containing the most additives and industrial ingredients (NOVA 4) provided below are not exhaustive.
 
 </details>
 
