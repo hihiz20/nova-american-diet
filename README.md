@@ -165,7 +165,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 
 
 <details>
-<summary><b>Q5. What ingredients in NOVA 3 and NOVA 4 contribute to health risks that are found in popular food category when consumed frequently? (In progress)</b></summary>
+<summary><b>Q5. What popular food catetgory in NOVA 3 and NOVA 4 contribute to health risks based on the ingredients when consumed frequently? (In progress)</b></summary>
 <br>
   
 The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues when frequently consumed. Since the result was limited, base ingredients such as salt, sugar, water, citric acid, folic acid, and others dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 4. 
