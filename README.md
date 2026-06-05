@@ -170,7 +170,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
   
 The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues when frequently consumed. Since the result was limited, base ingredients such as salt, sugar, water, citric acid, folic acid, and others dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 4. 
 
-Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, and oil) based on the popular food categories. However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019) and represent the most commonly identified markers of ultra-processing, but they are not a complete list:
+Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, and oil) based on the popular food categories. However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019), Davidou et al. (2020), PAHO (2019), and Martinez Steele et al. (2016), and represent the most commonly identified markers of ultra-processing, but they are not a complete list:
 
 
 - **Modified sugars & syrups:** Corn Syrup, High Fructose Corn Syrup, Dextrose, Maltodextrin, Glucose Syrup, Invert Sugar, Corn Syrup Solids, Rice Syrup
@@ -233,6 +233,8 @@ Campbell, N., Browne, S., Claudy, M., Reilly, K., Finucane, F. M. (2025). Food i
 
 Dallman, M. F., Pecoraro, N., Akana, S. F., la Fleur, S. E., Gomez, F., Houshyar, H., Bell, M. E., Bhatnagar, S., Laugero, K. D., & Manalo, S. (2003). Chronic stress and obesity: A new view of "comfort food." Proceedings of the National Academy of Sciences of the United States of America, 100(20), 11696–11701. https://doi.org/10.1073/pnas.1934666100
 
+Davidou, S., Christodoulou, A., Frank, K., & Fardet, A. (2021). A study of ultra-processing marker profiles in 22,028 packaged ultra-processed foods using the Siga classification. Journal of Food Composition and Analysis, 99, 103848. https://doi.org/10.1016/j.jfca.2021.103848
+
 Hough, K., Friuli, M., Avena, N. M., & Romano, A. (2026). The addicted brain: How processed foods hijack reward pathways. Pharmacological Research, 224, Article 108097. doi.org
 
 Juul, F. et al. (2022). Ultra-processed food consumption among
@@ -250,6 +252,8 @@ Make America Healthy Again Commission. (2025). Make our children healthy again a
 Marino, M. et al. (2021). A Systematic Review of Worldwide
 Consumption of Ultra-Processed Foods. PMC.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8398521/
+
+Martinez Steele, E., Baraldi, L. G., Louzada, M. L., Moubarac, J. C., Mozaffarian, D., & Monteiro, C. A. (2016). Ultra-processed foods and added sugars in the US diet: Evidence from a nationally representative cross-sectional study. BMJ Open, 6(3), e009892. https://doi.org/10.1136/bmjopen-2015-009892
 
 McKay, N., Przybysz, J., Cavanaugh, A., Horvatits, E., Giorgianni, N., & Czajka, K. (2021). The effect of unhealthy food and liking on stress reactivity. Physiology & Behavior, 229, Article 113216. https://doi.org/10.1016/j.physbeh.2020.113216
 
