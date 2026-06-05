@@ -44,7 +44,7 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness?
-- What ingredients in NOVA 3 and NOVA 4 contribute to health risks that are found in popular food category when consumed frequently?
+- What popular food catetgory in NOVA 3 and NOVA 4 contribute to health risks based on the ingredients when consumed frequently?
 - How many products list sugar (in any form - sucrose, corn syrup, 
   dextrose, fructose, etc.) as one of the top 10 ingredients?
 
