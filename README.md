@@ -174,6 +174,10 @@ Although salt and sugar are classified as NOVA 3 ingredients, the previous resea
 
 This question aims to narrow the ingredients down to focus on how many ingredients that are classified as NOVA 3  and NOVA 4 are presently found in popular food categories. The visualization containing the most additives and industrial ingredients (NOVA 4) provided below are not exhaustive.
 
+
+(Visualization in progress . . .)
+
+
 </details>
 
 
