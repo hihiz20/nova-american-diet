@@ -165,7 +165,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 
 
 <details>
-<summary><b>Q5. In progress</b></summary>
+<summary><b>Q5. How much additives and Industrial Ingredients are present in NOVA 3 and NOVA 4? (In progress)</b></summary>
 <br>
 
 
