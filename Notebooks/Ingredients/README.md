@@ -4,7 +4,7 @@ NOVA2 Ingredients Analysis - Completed
 
 NOVA 3 & 4 Ingredient Analysis (Q4)- Completed
 
-NOVA 4 Markers in Food Categories (Q5) - Completed
+NOVA 3 & 4 Markers in Food Categories (Q5) - Completed
 
 
 **References**
