@@ -191,7 +191,9 @@ This question aims to narrow the ingredients down to focus on how many ingredien
 <br>
 
 
-<img width="700" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8ab1332-9cce-411a-bfbb-397ff55c2a6a" />
+<img width="720" alt="Dashboard" src="https://github.com/user-attachments/assets/8e204f94-2b1d-4e67-9b19-e8e6251ff7b2" />
+<br>
+
 The image above shows exhaustive ingredients that are classified as NOVA 3: Salt, Sugar, Oil, Vinegar, Butter, and Honey. Suprisingly, NOVA 4 
 
 Discussion in progress . . .
