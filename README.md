@@ -173,9 +173,11 @@ The previous question explores the common ingredients found in NOVA 3 and NOVA 4
 Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, and oil) based on the popular food categories. However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019) and represent the most commonly identified markers of ultra-processing, but they are not a complete list.
 
 This question aims to narrow the ingredients down to focus on how many ingredients that are classified as NOVA 3  and NOVA 4 are presently found in popular food categories. The visualization containing the most additives and industrial ingredients (NOVA 4) provided below are not exhaustive.
+<br>
 
+<img width="900" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8ab1332-9cce-411a-bfbb-397ff55c2a6a" />
 
-(Visualization in progress . . .)
+Discussion in progress . . .
 
 
 </details>
