@@ -171,7 +171,6 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues. Since the result was limited and found that water, sugar, and other ingredients that were not classified as NOVA 3 and NOVA 4 dominated the top 20 ingredients list. This next question aims to narrow the ingredients down to focus on how much additives and industrial ingredients are presently found in every popular food categories. 
 
 </details>
-<br>
 
 
 
