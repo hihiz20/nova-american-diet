@@ -44,9 +44,9 @@ Food is essential for human survival, providing nourishment our bodies need to f
 
 **Ingredients and Consumer Awareness**
 - What are the most occurring ingredients in NOVA 3 and NOVA 4 classification that contributes these types of illness?
-- What percentage of NOVA 3 and NOVA 4 ingredients dominate the food categories in the US? 
+- How much additives and Industrial Ingredients are present in NOVA 3 and NOVA 4?
 - How many products list sugar (in any form - sucrose, corn syrup, 
-  dextrose, fructose, etc.) as one of the top 3 ingredients?
+  dextrose, fructose, etc.) as one of the top 10 ingredients?
 
 **Unexplored NOVA**
 - Why are NOVA 1 and NOVA 2 products produced significantly less than 
