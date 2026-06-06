@@ -176,6 +176,7 @@ The image above shows exhaustive ingredients that are classified as NOVA 3: salt
 
 <img width="1700" alt="Sheet 1(3)" src="https://github.com/user-attachments/assets/80230d08-5079-40c2-8183-91a130483e99" />
 <br>
+<br>
 
 
 However, while NOVA 3 ingredients are fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019), Davidou et al. (2020), PAHO (2019), and Martinez Steele et al. (2016), and represent the most commonly identified markers of ultra-processing, but they are not a complete list:
