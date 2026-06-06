@@ -196,7 +196,7 @@ However, while NOVA 3 ingredients are fully studied, their ingredients that are 
 
 Below shows the food categories that are classified as NOVA 4 based on the ingredients presented above. Again, individual ingredients are not displayed in the visualization as including all ingredients per food categoru would reduct readability. Instead, it shows which food categories contain highest concentration of NOVA 4 ingredients overall.
 
-<img width="1800" alt="Sheet 1(5)" src="https://github.com/user-attachments/assets/87ea0076-31b3-445b-b577-9c4117dda0cb" />
+<img width="1800" alt="Sheet 1(6)" src="https://github.com/user-attachments/assets/6b13ad08-3e72-4f6e-8150-6fe59bbba006" />
 <br>
 <br>
 
