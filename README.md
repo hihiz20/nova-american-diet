@@ -165,7 +165,7 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 
 
 <details>
-<summary><b>Q5. What ingredients from NOVA 3 (processed) and NOVA 4 (ultra-processed) contribute to health risks that are found in popular food categories when consumed frequently? (In progress)</b></summary>
+<summary><b>Q5. What ingredients from unique food category in NOVA 3 (processed) and NOVA 4 (ultra-processed) contribute to health risks when consumed frequently? (In progress)</b></summary>
 <br>
 
 The previous question explores the common ingredients found in NOVA 3 (processed) and NOVA 4 (ultra-processed) that could contribute to health issues when frequently consumed. Since the result was limited, base ingredients such as salt, sugar, water, citric acid, folic acid, and others dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 4. Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, butter, and oil) based on the popular food categories. Additionally, the result below narrowed down those ingredients and compared with NOVA 4.
