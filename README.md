@@ -168,34 +168,6 @@ While base ingredients like sugar, salt, water, and others dominate the top resu
 <summary><b>Q5. What popular food catetgory in NOVA 3 and NOVA 4 contribute to health risks based on the ingredients when consumed frequently? (In progress)</b></summary>
 <br>
   
-The previous question explores the common ingredients found in NOVA 3 and NOVA 4 that could contribute to health issues when frequently consumed. Since the result was limited, base ingredients such as salt, sugar, water, citric acid, folic acid, and others dominated the top 20 list - overshadowing the additives and industrial ingredients classified under NOVA 4. 
-
-Although salt and sugar are classified as NOVA 3 ingredients, the previous research question assumes all NOVA 3 ingredients will be present (salt, sugar, honey, vinegar, and oil) based on the popular food categories. However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019), Davidou et al. (2020), PAHO (2019), and Martinez Steele et al. (2016), and represent the most commonly identified markers of ultra-processing, but they are not a complete list:
-
-
-- **Modified sugars & syrups:** Corn Syrup, High Fructose Corn Syrup, Dextrose, Maltodextrin, Glucose Syrup, Invert Sugar, Corn Syrup Solids, Rice Syrup
-- **Hydrogenated oils:** Hydrogenated Oils, Partially Hydrogenated Oils, Interesterified Oils
-- **Protein isolates & hydrolysates:** Protein Isolate, Protein Concentrate, Hydrolyzed Proteins, Casein, Caseinate
-- **Modified starches:** Modified Starch, Modified Corn Starch, Modified Food Starch, Modified Tapioca Starch
-- **Flavours:** Natural/Artificial Flavor, Flavoring, Vanillin
-- **Flavour enhancers:** Monosodium Glutamate (MSG), Yeast Extract, Autolyzed Yeast, Disodium Inosinate, Disodium Guanylate
-- **Colours:** Red 40, Red 3, Yellow 5, Yellow 6, Blue 1, Blue 2, Green 3, Caramel Color, Titanium Dioxide, Annatto
-- **Emulsifiers:** Lecithin, Mono- and Diglycerides, Polysorbate, Carrageenan, DATEM, Sorbitan, Sodium Stearoyl Lactylate
-- **Sweeteners (non-sugar):** Aspartame, Sucralose, Acesulfame Potassium, Saccharin, Stevia, Erythritol, Sorbitol, Mannitol, Xylitol, Neotame
-- **Thickeners & gums:** Xanthan Gum, Guar Gum, Cellulose Gum, Cellulose, Locust Bean Gum, Gellan Gum, Pectin
-- **Preservatives:** Sodium Benzoate, Potassium Sorbate, BHT, BHA, TBHQ, Calcium Propionate, Sodium Nitrite, Sodium Nitrate, Tocopherols
-- **Anti-caking & other agents:** Silicon Dioxide, Calcium Silicate, Shellac, Carnauba Wax, Propylene Glycol, Polydextrose
-
-
-This question aims to narrow the ingredients down to focus on how many ingredients that are classified as NOVA 3 and NOVA 4 are presently found in popular food categories. Additionally, the visualization containing the most additives and industrial ingredients (NOVA 4) provided below are not exhaustive.
-<br>
-
-
-<img width="720" alt="Dashboard" src="https://github.com/user-attachments/assets/8e204f94-2b1d-4e67-9b19-e8e6251ff7b2" />
-<br>
-
-The image above shows exhaustive ingredients that are classified as NOVA 3: Salt, Sugar, Oil, Vinegar, Butter, and Honey. Suprisingly, NOVA 4 
-
 Discussion in progress . . .
 
 
