@@ -172,10 +172,26 @@ The previous question explores the common ingredients found in NOVA 3 (processed
 
 <img width="720" alt="Dashboard" src="https://github.com/user-attachments/assets/c08f0958-c7af-48a6-a7ce-a811d8bb13c9" />
 
-
+The image above shows exhaustive ingredients that are classified as NOVA 3: salt, sugar, oil, vinegar, butter, and honey. Surprisingly from the result above, NOVA 4 or ultra-processed has nearly doubled sugar and oil content, more salt, vinegar, butter, and honey than food categories that are classified as NOVA 3 (processed). This is because food categories found in NOVA 4 are designed to be hyper palatable, by using salt, sugar, and oil it creates the foundation of ultra-processed food (NOVA 4) to trigger the "bliss point" with the right amount of sugar, salt, and oil - leading children and adults to crave more and consume more ultra-processed food in their diet. Since salt, sugar, and oil are not considered NOVA 4, they are used as base ingredients for ultra-processed food with NOVA 4 ingredients layered after another. Since NOVA 4 food categories contain more salt, sugar, and oil, frequent consumption of these foods with common NOVA 4 ingredients could lead to health issues like cardiometabolic diseases, gut microbiome disruption and gastrointestinal issues, cognitive and mental health disorders, and increased cancer risk (Juul et al., 2022; Lane et al., 2024).
   
-Discussion in progress . . .
 
+However, while NOVA 3 is fully studied, their ingredients that are classified as NOVA 3 are exhaustive. On the other hand, NOVA 4 ingredients are not exhaustive and may continue to grow as food technology and science advance, introducing new additives and industrial ingredients into the food supply. The NOVA 4 markers used in this study are based on the categories defined by Monteiro et al. (2019), Davidou et al. (2020), PAHO (2019), and Martinez Steele et al. (2016), and represent the most commonly identified markers of ultra-processing, but they are not a complete list:
+
+- **Modified sugars & syrups:** Corn Syrup, High Fructose Corn Syrup, Dextrose, Maltodextrin, Glucose Syrup, Invert Sugar, Corn Syrup Solids, Rice Syrup
+- **Hydrogenated oils:** Hydrogenated Oils, Partially Hydrogenated Oils, Interesterified Oils
+- **Protein isolates & hydrolysates:** Protein Isolate, Protein Concentrate, Hydrolyzed Proteins, Casein, Caseinate
+- **Modified starches:** Modified Starch, Modified Corn Starch, Modified Food Starch, Modified Tapioca Starch
+- **Flavours:** Natural/Artificial Flavor, Flavoring, Vanillin
+- **Flavour enhancers:** Monosodium Glutamate (MSG), Yeast Extract, Autolyzed Yeast, Disodium Inosinate, Disodium Guanylate
+- **Colours:** Red 40, Red 3, Yellow 5, Yellow 6, Blue 1, Blue 2, Green 3, Caramel Color, Titanium Dioxide, Annatto
+- **Emulsifiers:** Lecithin, Mono- and Diglycerides, Polysorbate, Carrageenan, DATEM, Sorbitan, Sodium Stearoyl Lactylate
+- **Sweeteners (non-sugar):** Aspartame, Sucralose, Acesulfame Potassium, Saccharin, Stevia, Erythritol, Sorbitol, Mannitol, Xylitol, Neotame
+- **Thickeners & gums:** Xanthan Gum, Guar Gum, Cellulose Gum, Cellulose, Locust Bean Gum, Gellan Gum, Pectin
+- **Preservatives:** Sodium Benzoate, Potassium Sorbate, BHT, BHA, TBHQ, Calcium Propionate, Sodium Nitrite, Sodium Nitrate, Tocopherols
+- **Anti-caking & other agents:** Silicon Dioxide, Calcium Silicate, Shellac, Carnauba Wax, Propylene Glycol, Polydextrose
+
+
+In Progress...
 
 </details>
 
