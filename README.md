@@ -202,7 +202,12 @@ Below shows the food categories that are classified as NOVA 4 based on the ingre
 <br>
 <br>
 
-d
+</details>
+
+<details>
+<summary><b>Q6. In Progress</b></summary>
+<br>  
+
 
 </details>
 
