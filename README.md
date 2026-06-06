@@ -194,8 +194,9 @@ However, while NOVA 3 ingredients are fully studied, their ingredients that are 
 - **Preservatives:** Sodium Benzoate, Potassium Sorbate, BHT, BHA, TBHQ, Calcium Propionate, Sodium Nitrite, Sodium Nitrate, Tocopherols
 - **Anti-caking & other agents:** Silicon Dioxide, Calcium Silicate, Shellac, Carnauba Wax, Propylene Glycol, Polydextrose
 
+Below shows the food categories that are classified as NOVA 4 based on the ingredients presented above. Again, individual ingredients are not displayed in the visualization as including all ingredients per food categoru would reduct readability. Instead, it shows which food categories contain highest concentration of NOVA 4 ingredients overall.
 
-In Progress...
+
 
 </details>
 
