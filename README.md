@@ -222,7 +222,6 @@ In progress
 * [`SQL/`](./SQL) — schema definitions and queries
 * [`Data/`](./Data) — source gathered from USDA FoodData Central
 * [`Notebooks/`](./Notebooks) — Jupyter notebooks for ingestion, EDA, and classification
-* [`Visuals/`](./Visuals) — visualization of the result findings
 
 
 
